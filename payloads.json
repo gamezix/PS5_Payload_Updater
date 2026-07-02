@@ -2,12 +2,28 @@
   "name": "PS5 Payload Manager Updater (Unofficial By gamezix)",
   "payloads": [
     {
-      "name": "np-fake-signin-ps5",
-      "filename": "np-fake-signin-ps5_v1.3.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_activation/np-fake-signin-ps5_v1.3.elf",
-      "description": "Fake NP sign-in payload for PS5 activation",
-      "version": "v1.3"
-      "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+      "name": "kstuff-lite v1.0.8",
+      "filename": "kstuff.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.08/kstuff.elf",
+      "description": "EchoStretch Kstuff Lite",
+      "version": "v1.0.8"
+      "checksum": "eb730eccd1a333f94e918076d053b4d20701f7c97e6356e591cebabfb4e0fa2d"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6beta16/shadowmountplus.elf",
+      "description": "Mount game",
+      "version": "v1.6test16"
+      "checksum": "a35246fb3bb6042b25653b51cdcbc33254b40339342bf1d2dd0d2eceee2ca526"
+    },
+     {
+      "name": "ftpsrv-ps5",
+      "filename": "ftpsrv-ps5.elf",
+      "url": "https://github.com/drakmor/ftpsrv/releases/download/1.6-ng-test2/ftpsrv-ps5.elf",
+      "description": "drakmor FTP Server with autopause",
+      "version": "v1.16-ng-test2"
+      "checksum": "6364e0529416f400be123c52acdcda68efd5179d971c060286022131fd047b8e"
     },
     {
       "name": "KylinCore - PS5 cheat engine",
@@ -18,7 +34,7 @@
       "checksum": "90320a4169d61be6e168e605e59c4d8fc89fb978f1772f03c2011e7e8087b8a3"
     },
     {
-      "name": "nanodns",
+      "name": "nanoDNS",
       "filename": "nanodns.elf",
       "url": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns.elf",
       "description": "Nano DNS server for PS5",
@@ -34,20 +50,20 @@
       "checksum": "cb2a4b3c248323f2432ce118cb1bf4975146035239ce9b571a9bdb51b3fee226"
     },
     {
-      "name": "ShadowMountPlus",
-      "filename": "shadowmountplus.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6beta16/shadowmountplus.elf",
-      "description": "Mount game",
-      "version": "v1.6test16"
-      "checksum": "a35246fb3bb6042b25653b51cdcbc33254b40339342bf1d2dd0d2eceee2ca526"
+      "name": "ps5upload",
+      "filename": "ps5upload_v3.3.22.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v3.3.24/ps5upload-3.3.24.elf",
+      "description": "PS5 Upload tool",
+      "version": "v3.3.24"
+      "checksum": "0669701436835059cf5ddefbc7a739268fcb621337b59922d1670d36a5599896"
     },
     {
-      "name": "etaHEN 2.5B",
-      "filename": "etaHEN_2.5B.bin",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/etaHEN_2.5B.bin",
-      "description": "etaHEN 2.5B",
-      "version": "2.5B"
-      "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
+      "name": "ps5debug-NG",
+      "filename": "ps5debug-NG_v1.3.0.elf",
+      "url": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
+      "description": "PS5 Debug tool NG",
+      "version": "v1.3.0"
+      "checksum": "8f75fb90b45d7cc4d59147e3323577d7264cf572c78a27f76722202f492ad16a"
     },
     {
       "name": "pldmgr",
@@ -58,284 +74,20 @@
       "checksum": "518740adbacccb9094fadb07dd424c53ee290f38306449ccc9d6957fdf813c0b"
     },
     {
-      "name": "kstuff-lite v1.0.8",
-      "filename": "kstuff.elf",
-      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.08/kstuff.elf",
-      "description": "EchoStretch Kstuff Lite",
-      "version": "v1.0.8"
-      "checksum": "eb730eccd1a333f94e918076d053b4d20701f7c97e6356e591cebabfb4e0fa2d"
+      "name": "np-fake-signin-ps5",
+      "filename": "np-fake-signin-ps5_v1.3.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_activation/np-fake-signin-ps5_v1.3.elf",
+      "description": "Fake NP sign-in payload for PS5 activation",
+      "version": "v1.3"
+      "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
     },
     {
-      "name": "garlic-savemgr",
-      "filename": "garlic-savemgr_v1.10.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_saves/garlic-savemgr_v1.10.elf",
-      "description": "Save manager (Garlic)",
-      "version": "v1.10"
-      "checksum": "b82bf7aa83943c957f56c1b65c0739057d6b21f5b417215db17c9418fc265a27"
+      "name": "etaHEN 2.5B",
+      "filename": "etaHEN_2.5B.bin",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/etaHEN_2.5B.bin",
+      "description": "etaHEN 2.5B",
+      "version": "2.5B"
+      "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
     },
-    {
-      "name": "garlic-worker-ps5",
-      "filename": "garlic-worker-ps5_v1.1.4.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_saves/garlic-worker-ps5_v1.1.4.elf",
-      "description": "Garlic worker",
-      "version": "v1.1.4"
-      "checksum": "da311b3ff92fd06acf513a849b9a7eecdc43ecc34e5b7137d9f3f6f2c16c1704"
-    },
-    {
-      "name": "ps5-self-decrypter-full-system",
-      "filename": "ps5-self-decrypter-full-system_v0.5.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-decrypter-full-system_v0.5.2",
-      "description": "ps5-self-decrypter-full-system",
-      "version": "v0.5.2"
-      "checksum": "46340d3048a977f5603b3def0a0ba1c85b5c182891388442e51b39e281257b6a"
-    },
-    {
-      "name": "ps5-self-decrypter-game",
-      "filename": "ps5-self-decrypter-game_v0.5.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-decrypter-game_v0.5.2",
-      "description": "ps5-self-decrypter-game",
-      "version": "v0.5.2"
-      "checksum": "190b350759b4f9d50949325e84d131e0953f37a9df271c329ba43c80c0ac7a57"
-    },
-    {
-      "name": "ps5-self-decrypter-shellcore",
-      "filename": "ps5-self-decrypter-shellcore_v0.5.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-decrypter-shellcore_v0.5.2",
-      "description": "ps5-self-decrypter-shellcore",
-      "version": "v0.5.2"
-      "checksum": "15050c691c21c790ae970a1ee99ad3918dd1065fe5512c762fccee6d521c8066"
-    },
-    {
-      "name": "ps5-self-decrypter-system-common-lib",
-      "filename": "ps5-self-decrypter-system-common-lib_v0.5.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-decrypter-system-common-lib_v0.5.2",
-      "description": "ps5-self-decrypter-system-common-lib",
-      "version": "v0.5.2"
-      "checksum": "6a16c6457c604db4846632510da0975f49faba08e6cab9cfd7f84d78b4557d97"
-    },
-    {
-      "name": "ps5-self-pager-full-system",
-      "filename": "ps5-self-pager-full-system_v1.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-pager-full-system_v1.2",
-      "description": "ps5-self-pager-full-system",
-      "version": "v0.1.2"
-      "checksum": "fb498d4112611619150281e0c44afbd09f144c09eaca3ab3f5b306b39450d13a"
-    },
-    {
-      "name": "ps5-self-pager-game",
-      "filename": "ps5-self-pager-game_v1.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-pager-game_v1.2",
-      "description": "ps5-self-pager-game",
-      "version": "v0.1.2"
-      "checksum": "73d94fea5de9086cac26385c117a0b3098890c447d67536877fb7b51c9145aac"
-    },
-    {
-      "name": "ps5-self-pager-shellcore",
-      "filename": "ps5-self-pager-shellcore_v1.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-pager-shellcore_v1.2",
-      "description": "ps5-self-pager-shellcore",
-      "version": "v0.1.2"
-      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b"
-    },
-    {
-      "name": "ps5-self-pager-system-common-lib",
-      "filename": "ps5-self-pager-system-common-lib_v1.2",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-self-pager-system-common-lib_v1.2",
-      "description": "ps5-self-pager-system-common-lib",
-      "version": "v0.1.2"
-      "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701"
-    },
-    {
-      "name": "ps5-fw-spoof",
-      "filename": "ps5-fw-spoof_v26616621599.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5-fw-spoof_v26616621599.elf",
-      "description": "Firmware spoof",
-      "version": "v26616621599"
-      "checksum": "f1754521caa92a6a1ac313a1b6c969ec49d67750e290ba99870958290a0961f0"
-    },
-    {
-      "name": "ps5debug-NG",
-      "filename": "ps5debug-NG_v1.2.7.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_sdk_debug/ps5debug-NG_v1.2.7.elf",
-      "description": "PS5 Debug tool NG",
-      "version": "v1.2.7"
-      "checksum": "bfb07865611df05d4a07236f375e7e0b64e2f387124052fa67510f8b4fcae1a7"
-    },
-    {
-      "name": "airpsx",
-      "filename": "airpsx_v0.19.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/airpsx_v0.19.elf",
-      "description": "AirPSX server",
-      "version": "v0.19"
-      "checksum": "ae025ca7727b3a8abf6a705903ca9116a6fa6e7f7ead606916109cf9044c5d63"
-    },
-    {
-      "name": "elfldr-ps5",
-      "filename": "elfldr-ps5_v0.23.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/elfldr-ps5_v0.23.elf",
-      "description": "ELF Loader",
-      "version": "v0.23"
-      "checksum": "092d16ee0ede0c494947efd38d1a17bbd7cc4b022d3858ea898833c188c703e8"
-    },
-    {
-      "name": "ftpsrv-ps5-autopause",
-      "filename": "ftpsrv-ps5-autopause_v1.16-ng-test2.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/ftpsrv-ps5-autopause_v1.16-ng-test2.elf",
-      "description": "drakmor FTP Server with autopause",
-      "version": "v1.16-ng-test2"
-      "checksum": "da65f0c5b5dffd2b803e2521d73e96d35db4ff9711e661f49be5795f72da2cd3"
-    },
-    {
-      "name": "ftpsrv-ps5-install",
-      "filename": "ftpsrv-ps5-install-v0.20.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/ftpsrv-ps5-install-v0.20.elf",
-      "description": "FTP Server installer",
-      "version": "v0.20"
-      "checksum": "23f69de0f1ab1e1a3869473e87a271f750ec595056df0142fabbf21f5153c077"
-    },
-    {
-      "name": "ftpsrv-ps5",
-      "filename": "ftpsrv-ps5_v0.20.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/ftpsrv-ps5_v0.20.elf",
-      "description": "FTP Server",
-      "version": "v0.20"
-      "checksum": "8f305a959fb9d70fd8d52ba88409e0d5a1632e83d4ecdd38646a0a33e54089da"
-    },
-    {
-      "name": "gdbsrv-ps5",
-      "filename": "gdbsrv-ps5_v0.8.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/gdbsrv-ps5_v0.8.elf",
-      "description": "GDB Server",
-      "version": "v0.8"
-      "checksum": "7621b829bd8b6d6f3d2328fa12c16af956b0ca128250f92a91eddc100c87f208"
-    },
-    {
-      "name": "klogsrv-ps5",
-      "filename": "klogsrv-ps5_v0.8.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/klogsrv-ps5_v0.8.elf",
-      "description": "Kernel log server",
-      "version": "v0.8"
-      "checksum": "f6eb1b415ecf3340b89a56a0cb04ba5c714430085851ada13a98012b63a5a4cf"
-    },
-    {
-      "name": "ps5upload",
-      "filename": "ps5upload_v3.3.22.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/ps5upload_v3.3.22.elf",
-      "description": "PS5 Upload tool",
-      "version": "v3.3.22"
-      "checksum": "6fac6e1fa572e8780a39b7d32f418eff8900f9d6c921d6aad926270db30f9527"
-    },
-    {
-      "name": "shsrv-ps5",
-      "filename": "shsrv-ps5_v0.18.2.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/shsrv-ps5_v0.18.2.elf",
-      "description": "Shell server",
-      "version": "v0.18.2"
-      "checksum": "990f7fbcf3761f97db9b97638d3e119352447fb904b2cf70b191c02289e1c69e"
-    },
-    {
-      "name": "websrv-ps5",
-      "filename": "websrv-ps5_v0.32.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/websrv-ps5_v0.32.elf",
-      "description": "Web server for PS5",
-      "version": "v0.32"
-      "checksum": "8dd24df100bff6db156e86bdf9380d5c0fcd2a680c2b08f5c87380d5007190c5"
-    },
-    {
-      "name": "zftpd-ps5",
-      "filename": "zftpd-ps5_v1.5.0.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/zftpd-ps5_v1.5.0.elf",
-      "description": "ZFTPD Server",
-      "version": "v1.5.0"
-      "checksum": "68a80e1cb45544c15b1581a49154ad14aa8e29483e5fec786f2a95e0e28ea6cb"
-    },
-    {
-      "name": "zftpd-ps5-zhttp",
-      "filename": "zftpd-ps5-zhttp_v1.5.0.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_server/zftpd-ps5-zhttp_v1.5.0.elf",
-      "description": "ZFTPD with ZHTTP",
-      "version": "v1.5.0"
-      "checksum": "6cf6a738112fc339619ebe772690fa611f60ecdb20164a0e3f49e137277bc42b"
-    },
-    {
-      "name": "PS5.Custom.Tool.Manager",
-      "filename": "PS5.Custom.Tool.Manager.V1.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_themes_&_avatars/PS5.Custom.Tool.Manager.V1.elf",
-      "description": "Custom tool manager for themes & avatars",
-      "version": "V1"
-      "checksum": "297824ceaf6ea53fde57550adf9b5c2fc44c63ef60e8196ab92d351d1615d9cb"
-    },
-    {
-      "name": "ps5-wallpaper-modd",
-      "filename": "ps5-wallpaper-modd_v1.0.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_themes_&_avatars/ps5-wallpaper-modd_v1.0.elf",
-      "description": "Wallpaper modder",
-      "version": "v1.0"
-      "checksum": "b18a866bac9deff45b921b7d3ea6143d541117b56c666d817ecdc81961829139"
-    },
-    {
-      "name": "fw_probe",
-      "filename": "fw_probe_v1.0.0.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_trophy/fw_probe_v1.0.0.elf",
-      "description": "Firmware probe",
-      "version": "v1.0.0"
-      "checksum": "3a338eccaa236e13e52b790140146f4cf8fd10aa79fd9127e2a91880bd85a1cb"
-    },
-    {
-      "name": "trophy_unlocker",
-      "filename": "trophy_unlocker_allfw_v1.0.0.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_trophy/trophy_unlocker_allfw_v1.0.0.elf",
-      "description": "Trophy unlocker (all FW)",
-      "version": "v1.0.0"
-      "checksum": "a7a9133a63c1c8ea2ae802fd256d6d2eaea03e7cca5148b8f6cb264ce454974b"
-    },
-    {
-      "name": "bdj_unpatch_1340",
-      "filename": "bdj_unpatch_1340.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_utility/bdj_unpatch_1340.elf",
-      "description": "bdj_unpatch_1340",
-      "version": "v13.40"
-      "checksum": "fe0a32ab92a575e6a3d0da989d4db37a096cb65e46fe4e37abe54495699227de"
-    },
-    {
-      "name": "chronicloader",
-      "filename": "chronicloader_v0.1.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_utility/chronicloader_v0.1.elf",
-      "description": "Chronic loader",
-      "version": "v0.1"
-      "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1"
-    },
-    {
-      "name": "ghostpad",
-      "filename": "ghostpad-v1.0.0.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_utility/ghostpad-v1.0.0.elf",
-      "description": "Ghostpad utility",
-      "version": "v1.0.0"
-      "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
-    },
-    {
-      "name": "Ghostcontrol",
-      "filename": "Ghostcontrol_v1.0.4.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_utility/Ghostcontrol_v1.0.4.elf",
-      "description": "Ghostcontrol - use another gamepad on PS5",
-      "version": "v1.0.4"
-      "checksum": "e2e658fc3c4b041e630fae897acdefa23c4f79f0adc8473a69b49bfc4897ccf0"
-    },
-    {
-      "name": "hwinfo_bench",
-      "filename": "hwinfo_bench_v0.1.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_utility/hwinfo_bench_v0.1.elf",
-      "description": "Hardware benchmark",
-      "version": "v0.1"
-      "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
-    },
-    {
-      "name": "hwinfo_sysinfo",
-      "filename": "hwinfo_sysinfo_v0.1.elf",
-      "url": "https://raw.githubusercontent.com/gamezix/PS5_Payload_Updater/main/ps5_utility/hwinfo_sysinfo_v0.1.elf",
-      "description": "Hardware system info",
-      "version": "v0.1"
-      "checksum": "ad5014112dec619779619d0ea01a984b3c8267fed682eca5687f34c9eade51cb"
-    }
   ]
 }
