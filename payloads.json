@@ -2,12 +2,12 @@
   "name": "PS5 Payload Manager Updater (Unofficial By gamezix)",
   "payloads": [
     {
-      "name": "kstuff-lite v1.0.8",
+      "name": "Kstuff Lite",
       "filename": "kstuff.elf",
       "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.08/kstuff.elf",
       "description": "EchoStretch Kstuff Lite",
       "version": "v1.0.8"
-      "checksum": "eb730eccd1a333f94e918076d053b4d20701f7c97e6356e591cebabfb4e0fa2d"
+      "checksum": "17294fb95736b9871457c255c0fa2ce2fc2c0401f5cc5b26abd077393b018361"
     },
     {
       "name": "ShadowMountPlus",
@@ -26,7 +26,7 @@
       "checksum": "6364e0529416f400be123c52acdcda68efd5179d971c060286022131fd047b8e"
     },
     {
-      "name": "KylinCore - PS5 cheat engine",
+      "name": "Kylin Core - PS5 cheat engine",
       "filename": "kylin-core.elf",
       "url": "https://github.com/aydencharles/kylin-core-release/releases/download/v1.3.1-community-lite/kylin-core.elf",
       "description": "KylinCore - PS5 cheat engine for PS5",
@@ -42,7 +42,7 @@
       "checksum": "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
     },
     {
-      "name": "pegasus_dl",
+      "name": "Pegasus DL",
       "filename": "pegasus_dl.elf",
       "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.7.0/pegasus_dl.elf",
       "description": "FreeShop downloader",
