@@ -4,10 +4,10 @@
     {
       "name": "Kstuff Lite",
       "filename": "kstuff.elf",
-      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.08/kstuff.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.09/kstuff.elf",
       "description": "EchoStretch Kstuff Lite",
-      "version": "v1.0.8"
-      "checksum": "17294fb95736b9871457c255c0fa2ce2fc2c0401f5cc5b26abd077393b018361"
+      "version": "v1.09"
+      "checksum": "ec5212794dc6e44ee8e70fd0549abec6d3dac8c3e03ddbeafd9f869ffe97d4e8"
     },
     {
       "name": "ShadowMountPlus",
